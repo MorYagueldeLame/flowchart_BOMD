@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-11" value="meet time limit&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-11" value="Meet time limit&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f6xZxq4QPv4Yn3GBDjEe-12" value="Output data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
         <mxCell id="f6xZxq4QPv4Yn3GBDjEe-30" value="Update ions positions and time&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="660" y="450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-31" value="meet time limit&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-31" value="Meet time limit&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="460" y="430" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f6xZxq4QPv4Yn3GBDjEe-32" value="Output data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
