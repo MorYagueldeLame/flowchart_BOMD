@@ -151,8 +151,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;XLBOMD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;container=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="10" width="120" height="40" as="geometry" />
+        <mxCell id="f6xZxq4QPv4Yn3GBDjEe-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;XLBOMD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;container=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="667" y="20" width="160" height="40" as="geometry">
+            <mxRectangle x="680" y="10" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f6xZxq4QPv4Yn3GBDjEe-38" value="Move the shadow density" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="160" height="40" as="geometry" />
